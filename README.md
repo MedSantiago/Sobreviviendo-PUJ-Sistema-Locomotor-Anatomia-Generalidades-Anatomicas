@@ -93,10 +93,10 @@
     <div class="folder-grid">
 
       <!-- Carpeta 1: Guía de aprendizaje -->
-      <a class="folder" href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje"_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" alt="Guía">
-        <span>Guía de aprendizaje</span>
-      </a>
+<a class="folder" href="https://medsantiago.github.io/Sobreviviendo-PUJ-Sistema-Locomotor-Anatomia-Generalidades-Anatomicas-Guia-de-aprendizaje/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" alt="Guía">
+  <span>Guía de aprendizaje</span>
+</a>
 
       <!-- Carpeta 2: Actividad práctica -->
       <a class="folder" href="https://docs.google.com/document/d/1XEjemploEnlaceDeActividad" target="_blank">
